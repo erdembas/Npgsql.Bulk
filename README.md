@@ -1,4 +1,6 @@
 # Npgsql.Bulk
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ferdembas%2FNpgsql.Bulk.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ferdembas%2FNpgsql.Bulk?ref=badge_shield)
+
 Helper for performing COPY (bulk insert and update) operation easily, using Entity Framework + Npgsql. 
 
 .Net 4.5, Standard 1.5 and Standard 2.0 are supported.
@@ -40,3 +42,7 @@ Install-Package Npgsql.Bulk
 ```
 
 More info at: http://tsherlock.tech/2017/10/11/solving-some-problems-with-bulk-operations-in-npgsql/
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ferdembas%2FNpgsql.Bulk.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ferdembas%2FNpgsql.Bulk?ref=badge_large)
